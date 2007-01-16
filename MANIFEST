@@ -1,0 +1,9 @@
+CHANGES
+EasySession.pm
+INSTALL
+LICENSE
+Makefile.PL
+MANIFEST
+README
+t/EasySession.t
+META.yml                                 Module meta-data (added by MakeMaker)
